@@ -17,8 +17,8 @@
         <i>
 A 11-year-old Indian boy who has just lost his father is forced to adapt to a new school in a small village. The story  is about how he copes up and how life has to move on transforming a young mind into an adult day by day.
         </i>  
-        <br>  
-Available on <a href="https://www.netflix.com/watch/70302835" style="color:red">Netflix</a>
+        <br><br>  
+Available on <a href="https://www.netflix.com/watch/70302835" style="background-color:white; color:red; font-weight:bold;">NETFLIX</a>
       </p>  
     </td>
   </tr>
