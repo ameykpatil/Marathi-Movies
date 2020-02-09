@@ -2,10 +2,10 @@
 
 <table style="border:none;">
   <tr>
-    <td style="width:30%; border:none; float:left">
+    <td style="width:20%; border:none; float:left; margin:0;">
       <img src="https://m.media-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1_SY1000_SX750_AL_.jpg" alt="Killa">
     </td>
-    <td style="width:70%; border:none; float:left">
+    <td style="width:80%; border:none; float:left;">
       <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt3341582" data-style="p1">
       <a href="https://www.imdb.com/title/tt3341582/?ref_=plg_rt_1">
         <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Killa
