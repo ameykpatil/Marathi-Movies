@@ -2,10 +2,10 @@
 
 <table style="border:none;">
   <tr>
-    <td style="width:30%; border:none;">
+    <td style="width:30%; border:none; float:left">
       <img src="https://m.media-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1_SY1000_SX750_AL_.jpg" alt="Killa">
     </td>
-    <td style="width:70%; border:none;">
+    <td style="width:70%; border:none; float:left">
       <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt3341582" data-style="p1">
       <a href="https://www.imdb.com/title/tt3341582/?ref_=plg_rt_1">
         <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Killa
@@ -13,26 +13,12 @@
       </a>
     </span>
     <script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
+      Available on Netflix - https://www.netflix.com/watch/70302835
     </td>
   </tr>
 </table>
 
-<div style="display:block; width:100%;">
-  <div style="width:30%; float: left; display: inline-block;">
-    <img src="https://m.media-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1_SY1000_SX750_AL_.jpg" alt="Killa">
-  </div>
-  <div style="width:70%; float: left; display: inline-block;">
-    <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt3341582" data-style="p1">
-      <a href="https://www.imdb.com/title/tt3341582/?ref_=plg_rt_1">
-        <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Killa
-(2014) on IMDb" />
-      </a>
-    </span>
-    <script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
-  </div>
-</div>
 
-Available on Netflix - https://www.netflix.com/watch/70302835
 
 You can use the [editor on GitHub](https://github.com/ameykpatil/marathimovies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
