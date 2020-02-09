@@ -1,10 +1,10 @@
 ## Killa
 
 <div style="display:block; width:100%;">
-  <div style="width:50%; float: left; display: inline-block;">
-    <img src="https://m.media-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1_SY1000_SX750_AL_.jpg" height="150px" alt="Killa">
+  <div style="width:30%; float: left; display: inline-block;">
+    <img src="https://m.media-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1_SY1000_SX750_AL_.jpg" alt="Killa">
   </div>
-  <div style="width:50%; float: left; display: inline-block;">
+  <div style="width:70%; float: left; display: inline-block;">
     <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt3341582" data-style="p1">
       <a href="https://www.imdb.com/title/tt3341582/?ref_=plg_rt_1">
         <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Killa
