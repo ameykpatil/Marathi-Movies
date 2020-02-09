@@ -40,7 +40,7 @@ Available on <a href="https://www.netflix.com/watch/70302835" style="color:red; 
 This story is about how an old man tried to show his grandson the preciousness and beauty of life in a no win situation such as cancer. It is about keeping a positive attitude towards life.
         </i>  
         <br><br>  
-Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW18"><p style="color:DodgerBlue; font-weight:bold;">prime</p> <p style="color:MidnightBlue; font-weight:bold;>video</p></a>
+Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW18" style="color:DodgerBlue; font-weight:bold;">prime video</a>
       </p>  
     </td>
   </tr>
