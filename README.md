@@ -24,35 +24,27 @@ Available on <a href="https://www.netflix.com/watch/70302835" style="color:red; 
   </tr>
 </table>
 
+## Shwaas
 
-
-You can use the [editor on GitHub](https://github.com/ameykpatil/marathimovies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<table style="border:none;">
+  <tr>
+    <td style="width:20%; border:none; float:left;">
+      <img src="https://m.media-amazon.com/images/M/MV5BYTYzYjFjM2QtZGEzOC00N2ZlLTlkODktNmM1MGI3YzZhOGU1XkEyXkFqcGdeQXVyMTgwMjgwMjM@._V1_.jpg" alt="Shwaas">
+    </td>
+    <td style="width:80%; border:none; float:left;">
+      <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt0396962" data-style="p1"><a href="https://www.imdb.com/title/tt0396962/?ref_=plg_rt_1"><img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Shwaas
+(2004) on IMDb" />
+</a></span><script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
+      <p>
+        <i>
+This story is about how an old man tried to show his grandson the preciousness and beauty of life in a no win situation such as cancer. It is about keeping a positive attitude towards life.
+        </i>  
+        <br><br>  
+Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW18"><p style="color:DodgerBlue; font-weight:bold;">prime</p> <p style="color:MidnightBlue; font-weight:bold;>video</p></a>
+      </p>  
+    </td>
+  </tr>
+</table>
 
 ### Jekyll Themes
 
