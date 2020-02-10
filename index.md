@@ -81,5 +81,30 @@ Available on <a href="https://www.hotstar.com/1000014548" style="color:LimeGreen
   </tr>
 </table>
 
+<h2>Sairat</h2>
+<table style="border:none;">
+  <tr>
+    <td style="width:20%; border:none; float:left;">
+      <img src="https://m.media-amazon.com/images/M/MV5BMjBjNWYyY2UtOGNjZC00MTg4LWIwYWItYmZiNDI5MGUwNWRkXkEyXkFqcGdeQXVyNjI1NjA5NjE@._V1_.jpg" alt="Sairat">
+    </td>
+    <td style="width:80%; border:none; float:left;">
+      <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt5312232" data-style="p1">
+	<a href="https://www.imdb.com/title/tt5312232/?ref_=plg_rt_1">
+	  <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt="Sairat (2016) on IMDb" />
+	</a>
+      </span>
+      <script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");
+      </script> &nbsp;&nbsp;&nbsp;&nbsp;Year : 2016
+      <p>
+        <i>
+	In interior Maharashtra, a fisherman's son and a local politician's daughter fall in love against the restrictions of caste hierarchy.
+	</i>  
+        <br><br>
+	Available on <a href="https://www.zee5.com/movies/details/sairat/0-0-movie_1921832123" style="color:Black; font-weight:bold;">ZEE5</a>        
+      </p>  
+    </td>
+  </tr>
+</table>
+
 <h4>Support or Contact</h4>
 Want to support? Get in touch at ameykpatil@gmail.com
