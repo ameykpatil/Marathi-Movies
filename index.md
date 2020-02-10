@@ -31,7 +31,7 @@
 A 11-year-old Indian boy who has just lost his father is forced to adapt to a new school in a small village. The story  is about how he copes up and how life has to move on transforming a young mind into an adult day by day.
         </i>  
         <br><br>  
-Available on <a href="https://www.netflix.com/watch/70302835" style="color:red; font-weight:bold;">NETFLIX</a>
+Available on  <a href="https://www.netflix.com/watch/70302835" style="color:red; font-weight:bold;">NETFLIX</a>
       </p>  
     </td>
   </tr>
@@ -53,7 +53,7 @@ Available on <a href="https://www.netflix.com/watch/70302835" style="color:red; 
 This story is about how an old man tried to show his grandson the preciousness and beauty of life in a no win situation such as cancer. It is about keeping a positive attitude towards life.
         </i>  
         <br><br>  
-Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW18" style="color:DodgerBlue; font-weight:bold;">prime video</a>
+Available on  <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW18" style="color:DodgerBlue; font-weight:bold;">prime video</a>
       </p>  
     </td>
   </tr>
@@ -75,7 +75,7 @@ Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW
 Set in the 70's in rural India, four 9th grade kids were writing their destiny. Joshi is madly in love with Shirodkar a beautiful Indian looking girl. Both study in the same class. The age old question "What is love anyway?"
         </i>  
         <br><br>
-Available on <a href="https://www.hotstar.com/1000014548" style="color:LimeGreen; font-weight:bold;">hotstar</a>        
+Available on  <a href="https://www.hotstar.com/1000014548" style="color:LimeGreen; font-weight:bold;">hotstar</a>        
       </p>  
     </td>
   </tr>
@@ -100,7 +100,7 @@ Available on <a href="https://www.hotstar.com/1000014548" style="color:LimeGreen
 	In interior Maharashtra, a fisherman's son and a local politician's daughter fall in love against the restrictions of caste hierarchy.
 	</i>  
         <br><br>
-	Available on <a href="https://www.zee5.com/movies/details/sairat/0-0-movie_1921832123" style="color:Black; font-weight:bold;">ZEE5</a>        
+	Available on  <a href="https://www.zee5.com/movies/details/sairat/0-0-movie_1921832123" style="color:Black; font-weight:bold;">ZEE 5</a>        
       </p>  
     </td>
   </tr>
