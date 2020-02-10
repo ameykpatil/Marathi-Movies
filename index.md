@@ -76,7 +76,7 @@ Set in the 70's in rural India, four 9th grade kids were writing their destiny. 
         </i>  
         <br><br>  
 Available on <a href="https://www.hotstar.com/1000014548" style="background-color:DimGray; color:White; font-weight:bold;">&nbsp;&nbsp;hotstar&nbsp;&nbsp;</a>
-Available on <a href="https://www.hotstar.com/1000014548" style="color:YellowGreen; font-weight:bold;">hotstar</a>        
+Available on <a href="https://www.hotstar.com/1000014548" style="color:OliveDrab; font-weight:bold;">hotstar</a>        
       </p>  
     </td>
   </tr>
