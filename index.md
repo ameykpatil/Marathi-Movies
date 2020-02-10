@@ -59,5 +59,27 @@ Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW
   </tr>
 </table>
 
+<h2>Shala</h2>
+
+<table style="border:none;">
+  <tr>
+    <td style="width:20%; border:none; float:left;">
+      <img src="https://m.media-amazon.com/images/M/MV5BODMyNzc1NzU5OV5BMl5BanBnXkFtZTgwNzA1MTYxMzE@._V1_SY1000_CR0,0,666,1000_AL_.jpg" alt="Shala">
+    </td>
+    <td style="width:80%; border:none; float:left;">
+      <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt1830802" data-style="p1"><a href="https://www.imdb.com/title/tt1830802/?ref_=plg_rt_1"><img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt=" Shala
+(2011) on IMDb" />
+</a></span><script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script> &nbsp;&nbsp;&nbsp;&nbsp;Year : 2011
+      <p>
+        <i>
+Set in the 70's in rural India, four 9th grade kids were writing their destiny. Joshi is madly in love with Shirodkar a beautiful Indian looking girl. Both study in the same class. The age old question "What is love anyway?"
+        </i>  
+        <br><br>  
+Available on <a href="https://www.hotstar.com/1000014548" style="background-color:Black; color:White; font-weight:bold;">hotstar</a>
+      </p>  
+    </td>
+  </tr>
+</table>
+
 <h4>Support or Contact</h4>
 Want to support? Get in touch at ameykpatil@gmail.com
