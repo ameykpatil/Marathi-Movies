@@ -75,7 +75,7 @@ Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW
 Set in the 70's in rural India, four 9th grade kids were writing their destiny. Joshi is madly in love with Shirodkar a beautiful Indian looking girl. Both study in the same class. The age old question "What is love anyway?"
         </i>  
         <br><br>  
-Available on <a href="https://www.hotstar.com/1000014548" style="background-color:Black; color:White; font-weight:bold;">hotstar</a>
+Available on <a href="https://www.hotstar.com/1000014548" style="background-color:DimGray; color:White; font-weight:bold;">   hotstar  </a>
       </p>  
     </td>
   </tr>
