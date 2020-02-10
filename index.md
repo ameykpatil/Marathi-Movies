@@ -11,7 +11,7 @@
 </script>
 </head>
 
-<h1>Killa</h1>
+<h2>Killa</h2>
 
 <table style="border:none;">
   <tr>
@@ -37,7 +37,7 @@ Available on <a href="https://www.netflix.com/watch/70302835" style="color:red; 
   </tr>
 </table>
 
-<h1>Shwaas</h1>
+<h2>Shwaas</h2>
 
 <table style="border:none;">
   <tr>
@@ -59,5 +59,5 @@ Available on <a href="https://www.primevideo.com/detail/0O720DBB2MB3EGHRX9V51UCW
   </tr>
 </table>
 
-<h1>Support or Contact</h1>
+<h4>Support or Contact</h4>
 Want to support? Get in touch at ameykpatil@gmail.com
