@@ -106,5 +106,55 @@ Available on <a href="https://www.hotstar.com/1000014548" style="color:LimeGreen
   </tr>
 </table>
 
+<h2>Natarang</h2>
+<table style="border:none;">
+  <tr>
+    <td style="width:20%; border:none; float:left;">
+      <img src="https://m.media-amazon.com/images/M/MV5BY2IwNzU5YzgtN2E4Ni00NmQ2LWEyYmItMjFmN2FlY2U1YWFjXkEyXkFqcGdeQXVyNDU5MzA2NzI@._V1_.jpg" alt="Natarang">
+    </td>
+    <td style="width:80%; border:none; float:left;">
+      <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt1590129" data-style="p1">
+	<a href="https://www.imdb.com/title/tt1590129/?ref_=plg_rt_1">
+	  <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt="Natarang (2010) on IMDb" />
+	</a>
+      </span>
+      <script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");
+      </script> &nbsp;&nbsp;&nbsp;&nbsp;Year : 2010
+      <p>
+        <i>
+	A poor working man loses his job and decides to start a theater troupe.
+	</i>  
+        <br><br>
+	Available on <a href="https://www.zee5.com/movies/details/natrang/0-0-65" style="color:Black; font-weight:bold;">ZEE5</a>        
+      </p>  
+    </td>
+  </tr>
+</table>
+
+<h2>Jogwa</h2>
+<table style="border:none;">
+  <tr>
+    <td style="width:20%; border:none; float:left;">
+      <img src="https://m.media-amazon.com/images/M/MV5BZmFjMzU1YTQtZDcxNS00NjA0LTkwZjktYWMzYzBmNzU4NTUxXkEyXkFqcGdeQXVyMzc0ODYyNzk@._V1_.jpg" alt="Jogwa">
+    </td>
+    <td style="width:80%; border:none; float:left;">
+      <span class="imdbRatingPlugin" data-user="ur100837743" data-title="tt1653015" data-style="p1">
+	<a href="https://www.imdb.com/title/tt1653015/?ref_=plg_rt_1">
+	  <img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt="Jogwa (2009) on IMDb" />
+	</a>
+      </span>
+      <script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");
+      </script> &nbsp;&nbsp;&nbsp;&nbsp;Year : 2009
+      <p>
+        <i>
+	Two strangers are forced into a life of servitude to the local deity. They fall in love and want to start a new life but will the wrath of a highly superstitious community let them live in peace?
+	</i>  
+        <br><br>
+	Available on <a href="https://www.primevideo.com/detail/Jogwa/0I9XO3DEQ5HEF05LRMDZKAWJGY" style="color:DodgerBlue; font-weight:bold;">prime video</a>        
+      </p>  
+    </td>
+  </tr>
+</table>
+
 <h4>Support or Contact</h4>
 Want to support? Get in touch at ameykpatil@gmail.com
